@@ -34,7 +34,7 @@ def velocity(a, v):
 
 
 def acc(f):
-    return(f/M)
+    return(f/m)
 
 
 # In[193]:
